@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ÝŒ²þÿÿÿÿ
+U	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Í†Â
+@
+java:S1172"+Remove this unused method parameter "base".(Í†Â
+P
+java:S1161":Add the "@Override" annotation above this method signature(‡­üº

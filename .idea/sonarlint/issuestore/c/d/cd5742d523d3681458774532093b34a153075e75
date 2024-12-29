@@ -1,0 +1,54 @@
+
+k
+java:S1192?"UDefine a constant instead of duplicating this literal "El numero mayor es: " 3 times.(¹³¤ü
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÊŠ€
+o
+java:S1104"TMake Vehiculo a static final constant or non-public and provide accessors if needed.(Æ°Á¿ıÿÿÿÿ
+I
+java:S1444".Make this "public static Vehiculo" field final(Æ°Á¿ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¬ˆ—ıÿÿÿÿ
+
+java:S4165"iRemove this useless assignment; "totalAPagar" already holds the assigned value along all execution paths.(ŸÛ¿Š
+ƒ
+java:S4165"mRemove this useless assignment; "precioPorLitros" already holds the assigned value along all execution paths.(Ó¶ôŸ
+g	java:S116"RRename this field "aÃ±adir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‡ÚÓ
+n
+java:S3008"SRename this field "Vehiculo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ°Á¿ıÿÿÿÿ
+z
+java:S1450"_Remove the "litrosConsumidos" field and declare it as a local variable in the relevant methods.(éÔªûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÊŠ€
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Ü§øêşÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(Ü§øêşÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(õÀÅ¿úÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(õÀÅ¿úÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¶¿èóüÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(¬’±¥
+P
+java:S2209"5Change this instance-reference to a static reference.(‘Ç¼şÿÿÿÿ
+J
+java:S2209"5Change this instance-reference to a static reference.(ÀÃÕ/
+J
+java:S2209"5Change this instance-reference to a static reference.(ÀÃÕ/
+P
+java:S2209"5Change this instance-reference to a static reference.(¯÷Şµúÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(Ë®Í^
+L	java:S106%"9Replace this use of System.out or System.err by a logger.(½’H
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÛÂ”úÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(•¾”õ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¤Îêùÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(çîŞÓ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¹³¤ü
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Î–¯£ıÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(åï®Ïüÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(Ó¶ôŸ
+E
+java:S1656"/Remove or correct this useless self-assignment.(ŸÛ¿Š

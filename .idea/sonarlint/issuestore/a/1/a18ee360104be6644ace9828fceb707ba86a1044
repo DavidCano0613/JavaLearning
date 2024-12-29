@@ -1,0 +1,186 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "Hola Mundo" 3 times.(œÃÈ‡ÿÿÿÿÿ8øº¹ˆ1
+n	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅÓå8ûº¹ˆ1
+n	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅÓå8ûº¹ˆ1
+s	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒç¶ƒşÿÿÿÿ8ûº¹ˆ1
+s	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒç¶ƒşÿÿÿÿ8ûº¹ˆ1
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º›Â¶8ûº¹ˆ1
+m	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä„–48ûº¹ˆ1
+n	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º„§È8ûº¹ˆ1
+|
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(£—ÌÌ8ıº¹ˆ1
+
+java:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "result".(‹ß‚Êøÿÿÿÿ8ıº¹ˆ1
+
+java:S1488¥"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(­Şò¯8ıº¹ˆ1
+|
+java:S1488®"^Immediately return this expression instead of assigning it to the temporary variable "result".(…œ´İ8ıº¹ˆ1
+†
+java:S1488Å"cImmediately return this expression instead of assigning it to the temporary variable "precioFinal".(ô¬ˆóøÿÿÿÿ8ıº¹ˆ1
+t
+java:S1104"RMake entero a static final constant or non-public and provide accessors if needed.(úÓÏéùÿÿÿÿ8şº¹ˆ1
+q
+java:S1104"TMake flotante a static final constant or non-public and provide accessors if needed.(€³ôÄ8ÿº¹ˆ1
+u
+java:S1104"SMake decimal a static final constant or non-public and provide accessors if needed.(ºÖÏ†ùÿÿÿÿ8»¹ˆ1
+q
+java:S1104	"TMake boleanos a static final constant or non-public and provide accessors if needed.(´ºäª8ƒ»¹ˆ1
+x
+java:S1104
+"[Make eneteroPequeÃ±o a static final constant or non-public and provide accessors if needed.(„œ³¯8ƒ»¹ˆ1
+s
+java:S1104"VMake caracteres a static final constant or non-public and provide accessors if needed.(á§8ƒ»¹ˆ1
+n
+java:S1104"QMake large a static final constant or non-public and provide accessors if needed.(Øêúæ8ƒ»¹ˆ1
+m
+java:S1104"QMake corto a static final constant or non-public and provide accessors if needed.(ğ§Çl8ƒ»¹ˆ1
+u
+java:S1104"SMake integer a static final constant or non-public and provide accessors if needed.(ªÔ×ğùÿÿÿÿ8ƒ»¹ˆ1
+t
+java:S1104"RMake string a static final constant or non-public and provide accessors if needed.(¨ìÍ˜ıÿÿÿÿ8ƒ»¹ˆ1
+u
+java:S1104"SMake string2 a static final constant or non-public and provide accessors if needed.(ø¦ùÿÿÿÿ8ƒ»¹ˆ1
+u
+java:S1104"XMake decimalclase a static final constant or non-public and provide accessors if needed.(±Ù´ÿ8ƒ»¹ˆ1
+r
+java:S1104"PMake bool a static final constant or non-public and provide accessors if needed.(Ù£Î§úÿÿÿÿ8ƒ»¹ˆ1
+s
+java:S1104"VMake flotaclase a static final constant or non-public and provide accessors if needed.(—õÀô8ƒ»¹ˆ1
+s
+java:S1104B"QMake fecha a static final constant or non-public and provide accessors if needed.(Ì¿½ˆøÿÿÿÿ8ƒ»¹ˆ1
+v
+java:S1104D"TMake calendar a static final constant or non-public and provide accessors if needed.(€·Àâşÿÿÿÿ8ƒ»¹ˆ1
+`
+java:S2184"BCast one of the operands of this division operation to a "double".(£—ÌÌ8‡»¹ˆ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ëØúÿÿÿÿ8ˆ»¹ˆ1
+£
+java:S1862™"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ôèò´8‹»¹ˆ1
+£
+java:S1862œ"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ôèò´8»¹ˆ1
+£
+java:S1862œ"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ôèò´8»¹ˆ1
+f
+java:S1226§"CIntroduce a new variable instead of reusing the parameter "limite".(±û™Ùùÿÿÿÿ8’»¹ˆ1
+U
+java:S2589ß"7Remove this expression which always evaluates to "true"(»Õæé8µ¼¹ˆ1
+U
+java:S2589ß"7Remove this expression which always evaluates to "true"(»Õæé8µ¼¹ˆ1
+a
+java:S2583–"DChange this condition so that it does not always evaluate to "false"(çÁŞ#8µ¼¹ˆ1
+b
+java:S2583œ"DChange this condition so that it does not always evaluate to "false"(ôèò´8µ¼¹ˆ1
+b
+java:S2583™"DChange this condition so that it does not always evaluate to "false"(ôèò´8µ¼¹ˆ1
+v	java:S116
+"ZRename this field "eneteroPequeÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„œ³¯8¶¼¹ˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü‡ú«8»¼¹ˆ1
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ü‡ú«8»¼¹ˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë–úÿÿÿÿ8»¼¹ˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÆÏ§úÿÿÿÿ8»¼¹ˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õô‡ 8»¼¹ˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶¯Ø²ùÿÿÿÿ8¼¼¹ˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„À’½üÿÿÿÿ8¼¼¹ˆ1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ïŞÃÖıÿÿÿÿ8¼¼¹ˆ1
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(áŒŠ	8¼¼¹ˆ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÇÅÊ¼øÿÿÿÿ8½¼¹ˆ1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(©€½é8½¼¹ˆ1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ô„´Øùÿÿÿÿ8¾¼¹ˆ1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÊÇ§†8¾¼¹ˆ1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(˜·8¿¼¹ˆ1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(âŠ‹àşÿÿÿÿ8¿¼¹ˆ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Íç¿öøÿÿÿÿ8¿¼¹ˆ1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Œ÷ãÈıÿÿÿÿ8¿¼¹ˆ1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ñÖúä8À¼¹ˆ1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Ó³¶Ø8À¼¹ˆ1
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(Øš»8À¼¹ˆ1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ü–Ş‡8À¼¹ˆ1
+]	java:S125<"<This block of commented-out lines of code should be removed.(•»ø²øÿÿÿÿ8Æ¼¹ˆ1
+N
+java:S1874B",Remove this use of "Date"; it is deprecated.(Ì¿½ˆøÿÿÿÿ8Ç¼¹ˆ1
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Æ²Ôä8Í¼¹ˆ1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(Î•ğµúÿÿÿÿ8Í¼¹ˆ1
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(¿ªŒš8Í¼¹ˆ1
+]	java:S125o"<This block of commented-out lines of code should be removed.(à×åóúÿÿÿÿ8Î¼¹ˆ1
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(Õ“Š†8Î¼¹ˆ1
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(«‹Îõ8Ï¼¹ˆ1
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(òüÈ8Ğ¼¹ˆ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¿üÛ³8Ğ¼¹ˆ1
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(Ñ³Âæúÿÿÿÿ8Ñ¼¹ˆ1
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÕÈÚ™şÿÿÿÿ8Ñ¼¹ˆ1
+D
+java:S1110š"!Remove these useless parentheses.(‹ß‚Êøÿÿÿÿ8Ñ¼¹ˆ1
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ğ¾°‘úÿÿÿÿ8Ò¼¹ˆ1
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(¿•°ûÿÿÿÿ8Ò¼¹ˆ1
+\
+java:S1117¥">Rename "resultado" which hides the field declared at line 107.(­Şò¯8Ò¼¹ˆ1
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(Å†Á8Ó¼¹ˆ1
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(Êºéûÿÿÿÿ8Ó¼¹ˆ1
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(öİüœ8Õ¼¹ˆ1
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(İç„ö8Õ¼¹ˆ1
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(¨ª‰ûúÿÿÿÿ8Õ¼¹ˆ1
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÕœÓ•ıÿÿÿÿ8Õ¼¹ˆ1
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(»ÿ¢ö8Ö¼¹ˆ1
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(ÏğîÀøÿÿÿÿ8×¼¹ˆ1
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ªšĞúÿÿÿÿ8×¼¹ˆ1
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(»¦Ïüÿÿÿÿ8×¼¹ˆ1
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(äÄñøüÿÿÿÿ8×¼¹ˆ1
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(Øºúøÿÿÿÿ8Ø¼¹ˆ1
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(î¬É›8Ø¼¹ˆ1
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(»Õæé8Ù¼¹ˆ1
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(´‡ô8Ù¼¹ˆ1
+b
+java:S1854í"?Remove this useless assignment to local variable "finalSalary".(’ ³âıÿÿÿÿ8Ú¼¹ˆ1
+`
+java:S1854ì"=Remove this useless assignment to local variable "retencion".(Ü›ŠÅûÿÿÿÿ8Ú¼¹ˆ1
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ8Ú¼¹ˆ1
+U	java:S106ê"9Replace this use of System.out or System.err by a logger.(ø¨¿8Ú¼¹ˆ1
+b
+java:S1854ø"?Remove this useless assignment to local variable "totalAPagar".(—øÍ‘ùÿÿÿÿ8Û¼¹ˆ1
+a
+java:S1854">Remove this useless assignment to local variable "pesoViejos".(ŸÕûÿÿÿÿ8Ü¼¹ˆ1
+i
+java:S1854"FRemove this useless assignment to local variable "pesoPromedioViejos".(¸§åúÿÿÿÿ8Ü¼¹ˆ1
+b
+java:S1854Œ"?Remove this useless assignment to local variable "pesoAdultos".(Ó”ë¦üÿÿÿÿ8Ü¼¹ˆ1
+j
+java:S1854Š"GRemove this useless assignment to local variable "pesoPromedioAdultos".(‚£¶Šùÿÿÿÿ8Ü¼¹ˆ1
+]
+java:S1854ˆ"?Remove this useless assignment to local variable "pesoJovenes".(ÑÏŸÓ8Ü¼¹ˆ1
+e
+java:S1854†"GRemove this useless assignment to local variable "pesoPromedioJovenes".(ŠºÍí8Ü¼¹ˆ1
+d
+java:S1854‚"FRemove this useless assignment to local variable "pesoPrimedioNiÃ±os".(º›Â¶8Ü¼¹ˆ1
+U
+java:S1481‚"7Remove this unused "pesoPrimedioNiÃ±os" local variable.(º›Â¶8Ü¼¹ˆ1
+H
+java:S1481ƒ"+Remove this unused "niÃ±os" local variable.(ä„–48Ü¼¹ˆ1
+V
+java:S1481†"8Remove this unused "pesoPromedioJovenes" local variable.(ŠºÍí8İ¼¹ˆ1
+J
+java:S1481‡",Remove this unused "jovenes" local variable.(ü÷É³8İ¼¹ˆ1
+N
+java:S1481ˆ"0Remove this unused "pesoJovenes" local variable.(ÑÏŸÓ8İ¼¹ˆ1
+[
+java:S1481Š"8Remove this unused "pesoPromedioAdultos" local variable.(‚£¶Šùÿÿÿÿ8İ¼¹ˆ1
+J
+java:S1481‹",Remove this unused "adultos" local variable.(ºäá—8İ¼¹ˆ1
+S
+java:S1481Œ"0Remove this unused "pesoAdultos" local variable.(Ó”ë¦üÿÿÿÿ8İ¼¹ˆ1
+Z
+java:S1481"7Remove this unused "pesoPromedioViejos" local variable.(¸§åúÿÿÿÿ8İ¼¹ˆ1
+N
+java:S1481"+Remove this unused "viejos" local variable.(Ã¢ÖŠùÿÿÿÿ8İ¼¹ˆ1
+R
+java:S1481"/Remove this unused "pesoViejos" local variable.(ŸÕûÿÿÿÿ8İ¼¹ˆ1
+G
+java:S1481“")Remove this unused "peso" local variable.(ú·¯ö8İ¼¹ˆ1
+k
+java:S1871œ"MThis branch's code block is the same as the block for the branch on line 278.(ôèò´8Ş¼¹ˆ1
+k
+java:S1871™"MThis branch's code block is the same as the block for the branch on line 278.(ôèò´8Ş¼¹ˆ1
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ß¼¹ˆ1
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(³Ò—º8à¼¹ˆ1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÿè¢¹ˆ1
